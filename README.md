@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sarvagya-Cloudstok
+- 👋 Hi, I’m @Sarvagya
 - 👀 I’m interested in Cloud
 - 🌱 I’m currently learning Cloud
 - 💞️ I’m looking to collaborate on Cloud
